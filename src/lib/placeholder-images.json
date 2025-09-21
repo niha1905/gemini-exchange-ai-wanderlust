@@ -1,0 +1,59 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "img-hero",
+      "description": "A beautiful landscape in India",
+      "imageUrl": "https://picsum.photos/seed/india-hero/1280/400",
+      "imageHint": "India landscape"
+    },
+    {
+      "id": "img-poi-1",
+      "description": "The Taj Mahal in Agra",
+      "imageUrl": "https://picsum.photos/seed/tajmahal/600/400",
+      "imageHint": "Taj Mahal"
+    },
+    {
+      "id": "img-poi-2",
+      "description": "Hawa Mahal in Jaipur",
+      "imageUrl": "https://picsum.photos/seed/hawamahal/600/400",
+      "imageHint": "Hawa Mahal Jaipur"
+    },
+    {
+      "id": "img-poi-3",
+      "description": "The backwaters of Kerala",
+      "imageUrl": "https://picsum.photos/seed/kerala/600/400",
+      "imageHint": "Kerala backwaters"
+    },
+    {
+      "id": "img-poi-4",
+      "description": "A bustling street food market in Delhi",
+      "imageUrl": "https://picsum.photos/seed/delhifood/600/400",
+      "imageHint": "Indian food"
+    },
+    {
+      "id": "img-poi-5",
+      "description": "A luxurious hotel in Mumbai",
+      "imageUrl": "https://picsum.photos/seed/mumbaihotel/600/400",
+      "imageHint": "luxury hotel"
+    },
+    {
+      "id": "img-poi-6",
+      "description": "A beach in Goa",
+      "imageUrl": "https://picsum.photos/seed/goabeach/600/400",
+      "imageHint": "Goa beach"
+    },
+    {
+      "id": "img-poi-7",
+      "description": "A vibrant cafe in Bangalore",
+      "imageUrl": "https://picsum.photos/seed/bangalorecafe/600/400",
+      "imageHint": "modern cafe"
+    },
+    {
+      "id": "img-poi-8",
+      "description": "Golden Temple in Amritsar",
+      "imageUrl": "https://picsum.photos/seed/goldentemple/600/400",
+      "imageHint": "Golden Temple"
+    }
+  ]
+}
